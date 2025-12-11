@@ -1,5 +1,11 @@
 <resources>
-    <string name="app_name">ContactRunyCRMApp</string>
+    <string name="app_name">Contact Runy CRM</string>
+    <string name="permission_explanation">This app syncs your contacts and recent calls with your CRM. We only request permissions needed to read/write contacts and read call logs.</string>
     <string name="sync_now">Sync Now</string>
-    <string name="last_sync">Last sync: never</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="last_sync">Last sync:</string>
+    <string name="stats_contacts">Contacts synced:</string>
+    <string name="stats_calls">Calls synced:</string>
+    <string name="add_contact">Add Sample Contact</string>
+    <string name="delete_contact">Delete Sample Contact</string>
 </resources>
